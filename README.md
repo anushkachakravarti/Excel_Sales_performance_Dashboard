@@ -2,7 +2,7 @@
 
 An executive-ready, interactive **Sales Performance Dashboard** built in Microsoft Excel to analyze revenue, order volume, product performance, regional trends, and sales channels across 2025–2026.
 
-
+https://github.com/anushkachakravarti/Excel_Sales_performance_Dashboard/blob/main/Screenshot%202026-11-16%20222015.png
 
 ---
 
